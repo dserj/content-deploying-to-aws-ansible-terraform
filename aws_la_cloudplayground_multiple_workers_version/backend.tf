@@ -9,6 +9,6 @@ terraform {
     region  = "us-east-1"
     profile = "default"
     key     = "terraformstatefile"
-    bucket  = "terra-ansible-123"
+    bucket  = "terraansible-123"
   }
 }

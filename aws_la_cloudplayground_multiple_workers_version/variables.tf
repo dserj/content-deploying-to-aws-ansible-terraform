@@ -14,7 +14,7 @@ variable "instance-type" {
 
 variable "dns-name" {
   type    = string
-  default = "cmcloudlab819.info." # e.g "cmcloudlab1234.info."
+  default = "cmcloudlab970.info." # e.g "cmcloudlab1234.info."
 }
 
 variable "profile" {
